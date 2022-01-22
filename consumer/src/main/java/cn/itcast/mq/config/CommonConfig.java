@@ -12,6 +12,6 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class CommonConfig {
     public static void main(String[] args) {
-
+        System.out.println("aaaaaaa");
     }
 }
